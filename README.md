@@ -56,7 +56,7 @@ if (config('app.debug')) {
 
 Installation via Composer:
 ```
-php composer.phar require dev-and-web/daw-php-config 1.1.*
+composer require dev-and-web/daw-php-config
 ```
 
 

@@ -57,7 +57,7 @@ Les fichiers de configuration doivent être des fichiers PHP qui renvoient un ta
 
 Installation avec Composer :
 ```
-php composer.phar require dev-and-web/daw-php-config 1.1.*
+composer require dev-and-web/daw-php-config
 ```
 
 
